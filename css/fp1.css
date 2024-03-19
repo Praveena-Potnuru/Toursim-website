@@ -1,0 +1,48 @@
+body{
+    background-image: url(../images/bg10.jpg);
+    background-repeat: no-repeat;
+    background-size: 99% 99%;
+    background-position: center;
+    width: 90%;
+}
+table{
+    border-collapse: collapse;
+    background-color: none;
+    position: absolute;
+    top: 13%;
+    left: 0%;
+}
+.havi{
+    border: 0px solid red;
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+    margin: 0 10px;
+}
+.name{
+    font-size: 45px;
+    font-family: Bodoni MT;
+    border-bottom: 2px solid white;
+    padding: 0 13px 15px 13px;
+    color: #FF9933;
+}
+p{
+    font-family: Malgun Gothic;
+    color: #000080;
+}
+input[type=text]{
+    width: 87%;
+    height: 35px;
+    padding: 6px;
+    background-color: none;
+}
+input[type=button]{
+    width: 95%;
+    height: 35px;
+    padding: 6px;
+    border: 0px;
+    border-radius: 17px;  
+    cursor: pointer;
+    background-color: #138808;
+    color: white;
+}
+

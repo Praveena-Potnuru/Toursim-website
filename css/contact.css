@@ -1,0 +1,104 @@
+* {
+  margin: 0 0;
+  padding: 0 0;
+}
+.space {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1%;
+}
+.space ul li a {
+  color: black;
+  text-decoration: none;
+  background-color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+.space ul li {
+  display: inline;
+  padding: 5px;
+}
+.space ul {
+  list-style-type: none;
+}
+
+.toolbar ul li a:hover {
+  color: chocolate;
+}
+.text-right {
+  text-align: right;
+}
+.same1 {
+  background-image: url(../images/bg8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 4% 0;
+  height: 35%;
+}
+.same {
+  width: 80%;
+  margin: 0 auto;
+}
+.text-center {
+  text-align: center;
+}
+.text {
+  color: white;
+  font-size: 50px;
+  font-family: Copperplate Gothic;
+}
+.text1 {
+  color: white;
+  font-size: 90px;
+  font-family: Fixedsys;
+}
+.pad {
+  padding: 5% 0;
+}
+.size {
+  font-size: 30px;
+}
+.container {
+  background-color: none;
+  border-radius: 25px;
+  width: 768px;
+  max-width: 100%;
+  min-height: 230px;
+  position: relative;
+  left: 25%;
+  overflow: hidden;
+  padding: 30px 30px;
+  border: 1px solid red;
+}
+.container1 {
+  left: 0;
+  width: 50%;
+  z-index: 2;
+  border: 1px solid red;
+}
+.form-container {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  transition: all 0.6s ease-in-out;
+  padding: 30px 30px;
+}
+.login-container {
+  right: 20;
+  width: 50%;
+  z-index: 2;
+}
+.type {
+  border: none;
+  border-bottom: 2px solid black;
+  width: 70%;
+  padding: 5px;
+}
+.button {
+  cursor: pointer;
+  padding: 7px;
+  border-radius: 3px;
+  border: none;
+  background-color: DFE8D3;
+}

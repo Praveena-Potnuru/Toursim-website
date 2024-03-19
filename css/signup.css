@@ -1,0 +1,143 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+.space{
+    width: 80%;
+    margin: 0 auto ;
+    padding: 1%;
+}
+.space ul li a{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+.space ul li{
+    display: inline;
+    padding: 5px;
+}
+.space ul{
+    list-style-type: none;
+}
+
+.toolbar ul li a:hover{
+    color:chocolate;
+}
+.text-right{
+    text-align: right;
+}
+.bod{
+    background-image: url("../images/bg5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20.5% 0;
+}
+.size{
+    position:absolute;
+    top:8%;
+    right:24%;
+    font-size: 45px;
+    font-family: Perpetua Titling MT;
+    color: white;
+}
+.size1{
+    font-size: 20px;
+    color: white;
+}
+input[type=text],input[type=password],input[type=tel],input[type=date]{
+    padding:5px 10px;
+    width:150%;
+    height:33px;
+    border-radius:5px;
+    border: none;
+}
+.havi{
+    position:absolute;
+    top:17%;
+    right:27%;
+}
+.havi1{
+    position:absolute;
+    bottom:14%;
+    right:25%;
+    color:white
+}
+.havi2{
+    position:absolute;
+    bottom:7%;
+    right:31%;
+    background-color: #8A9A5B;
+    padding: 9px;
+    font-size: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.havi3{
+    position:absolute;
+    bottom:7%;
+    right:23%;
+    background-color: #8A9A5B;
+    padding: 9px;
+    font-size: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.a{
+    position: absolute;
+    top: 150px;
+    left: 320px;
+    color: white;
+    font-size: 60px;
+    font-family: Stencil;
+}
+.b{
+    position: absolute;
+    top: 210px;
+    left: 320px;
+    color: white;
+    font-size: 55px;
+    font-family: Mistral;
+}
+.c{
+    position: absolute;
+    top: 270px;
+    left: 320px;
+    color: white;
+    font-size: 60px;
+    font-family: Stencil;
+}
+.d{
+    position: absolute;
+    top: 270px;
+    left: 540px;
+    color: white;
+    font-size: 55px;
+    font-family: Mistral;
+}
+.e{
+    position: absolute;
+    top: 400px;
+    left: 120px;
+    font-size: 60px;
+    font-family: Monotype Corsiva;
+    color: burlywood;
+}
+.f{
+    position: absolute;
+    top: 330px;
+    left: 320px;
+    color: white;
+    font-size: 55px;
+    font-family: Mistral;
+}
+.g{
+    position: absolute;
+    top: 330px;
+    left: 440px;
+    color: white;
+    font-size: 55px;
+    font-family: Stencil; 
+}

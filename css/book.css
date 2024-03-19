@@ -1,0 +1,82 @@
+* {
+  margin: 0 0;
+  padding: 0 0;
+}
+.space {
+  width: 98%;
+  padding: 1%;
+  background-color: white;
+}
+.space ul li a {
+  color: black;
+  text-decoration: none;
+  background-color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+.space ul li {
+  display: inline;
+  padding: 5px;
+}
+.space ul {
+  list-style-type: none;
+}
+
+.toolbar ul li a:hover {
+  color: chocolate;
+}
+.text-right {
+  text-align: right;
+}
+body {
+  background-image: url(../images/bg7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.tab {
+  width: 80%;
+  margin: 0 9%;
+  padding: 0;
+  text-align: center;
+  border: solid red 1px;
+}
+
+.bot {
+  margin: 0 15%;
+}
+
+.havi1 {
+  width: 90%;
+  padding: 10px 20px;
+  margin: 10px 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+.havi3 {
+  width: 94%;
+  padding: 10px 20px;
+  margin: 10px 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+.havi2 {
+  width: 94%;
+  background-color: #a47551;
+  color: white;
+  padding: 8px 5px;
+  margin: 10px 0px;
+  border: 1px solid black;
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 20px;
+}
+table {
+  padding: 1% 2%;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 3%;
+}
+
+  
